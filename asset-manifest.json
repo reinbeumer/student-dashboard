@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/student-dashboard/static/css/main.980e48be.css",
+    "main.js": "/student-dashboard/static/js/main.b2432488.js",
+    "static/media/Desert.jpg": "/student-dashboard/static/media/Desert.52b8114dc940f505e16b.jpg",
+    "static/media/Default.jpg": "/student-dashboard/static/media/Default.0bd239b5764f67f713cd.jpg",
+    "static/media/EasterEgg.png": "/student-dashboard/static/media/EasterEgg.1d3295d46b43947e5ea0.png",
+    "static/media/Ocean.jpg": "/student-dashboard/static/media/Ocean.3b7bab02f89c4cf613f3.jpg",
+    "static/media/MOCK_DATA_ASSIGNMENTS.csv": "/student-dashboard/static/media/MOCK_DATA_ASSIGNMENTS.62182553b57412ce8fbf.csv",
+    "static/media/Logo Anna Beumer zonder tekst-1.png": "/student-dashboard/static/media/Logo Anna Beumer zonder tekst-1.b8f48553d8a371822396.png",
+    "static/media/PROVIDED_MOCK_DATA_RESULTS.tsv": "/student-dashboard/static/media/PROVIDED_MOCK_DATA_RESULTS.1df50f6b433ad97186b7.tsv",
+    "static/media/MOCK_DATA_STUDENT.csv": "/student-dashboard/static/media/MOCK_DATA_STUDENT.2a94895b25917f590f21.csv",
+    "index.html": "/student-dashboard/index.html",
+    "main.980e48be.css.map": "/student-dashboard/static/css/main.980e48be.css.map",
+    "main.b2432488.js.map": "/student-dashboard/static/js/main.b2432488.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.980e48be.css",
+    "static/js/main.b2432488.js"
+  ]
+}
